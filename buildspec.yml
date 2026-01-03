@@ -1,6 +1,6 @@
 version: 0.2
 
-env:
+env: 
   variables:
     AWS_ACCOUNT_ID: "711907670759"
     AWS_DEFAULT_REGION: "us-east-1"
